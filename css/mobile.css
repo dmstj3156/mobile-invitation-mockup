@@ -1,0 +1,13 @@
+ #pcscreen {
+    display: none;
+    overflow: hidden;
+}
+#mobile{
+   
+}
+#mobilescreen{
+     display: block;
+     overflow: hidden;
+     width: 100%;
+     height: 100vh;
+}
